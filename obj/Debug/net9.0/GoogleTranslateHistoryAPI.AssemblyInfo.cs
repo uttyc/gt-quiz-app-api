@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleTranslateHistoryAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f3c6936802bc68167d2b9b297caa2c037e1a683")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleTranslateHistoryAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleTranslateHistoryAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55DD3390-2045-43AB-B9FD-720F03CB2D25}|GoogleTranslateHistoryAPI.csproj|c:\\users\\user\\masa\u00FCst\u00FC\\atik\\app\\csharpprojects\\googletranslatehistoryapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55DD3390-2045-43AB-B9FD-720F03CB2D25}|GoogleTranslateHistoryAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55DD3390-2045-43AB-B9FD-720F03CB2D25}|GoogleTranslateHistoryAPI.csproj|c:\\users\\user\\masa\u00FCst\u00FC\\atik\\app\\csharpprojects\\googletranslatehistoryapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DD3390-2045-43AB-B9FD-720F03CB2D25}|GoogleTranslateHistoryAPI.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,19 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-27T11:47:14.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Controllers\\TestController.cs",
               "ToolTip": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Controllers\\TestController.cs",
               "RelativeToolTip": "Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T11:19:59.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TranslateController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Controllers\\TranslateController.cs",
               "RelativeDocumentMoniker": "Controllers\\TranslateController.cs",
@@ -83,12 +100,11 @@
               "RelativeToolTip": "Controllers\\TranslateController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAnwCsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T13:50:36.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T13:50:36.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "QuizController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Controllers\\QuizController.cs",
               "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
@@ -108,12 +124,11 @@
               "RelativeToolTip": "Controllers\\QuizController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T13:29:48.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T13:29:48.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TranslationEntry.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Models\\TranslationEntry.cs",
               "RelativeDocumentMoniker": "Models\\TranslationEntry.cs",
@@ -125,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -133,12 +148,11 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAQwCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T20:52:45.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T20:52:45.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "JwtHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Helpers\\JwtHelper.cs",
               "RelativeDocumentMoniker": "Helpers\\JwtHelper.cs",
@@ -150,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -162,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -174,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -182,12 +196,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAnwD4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T12:12:55.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T12:12:55.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GoogleTranslateHistoryAPI.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\GoogleTranslateHistoryAPI.csproj",
               "RelativeDocumentMoniker": "GoogleTranslateHistoryAPI.csproj",
@@ -199,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SuccessController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Masa\u00FCst\u00FC\\Atik\\App\\CsharpProjects\\GoogleTranslateHistoryAPI\\Controllers\\SuccessController.cs",
               "RelativeDocumentMoniker": "Controllers\\SuccessController.cs",
