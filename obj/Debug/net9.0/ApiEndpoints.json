@@ -1,0 +1,183 @@
+[
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.AuthController",
+    "Method": "GoogleLogin",
+    "RelativePath": "api/Auth/google-login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 302
+      }
+    ]
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.AuthController",
+    "Method": "GoogleResponse",
+    "RelativePath": "api/Auth/google-response",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 401
+      }
+    ]
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.QuizController",
+    "Method": "GetFillInTheBlank",
+    "RelativePath": "api/Quiz/fill-in-the-blank",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.QuizController",
+    "Method": "SubmitFillInBlank",
+    "RelativePath": "api/Quiz/fill-in-the-blank/submit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "GoogleTranslateHistoryAPI.Controllers.QuizAnswerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.QuizController",
+    "Method": "GetFlashcard",
+    "RelativePath": "api/Quiz/flashcard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.QuizController",
+    "Method": "GetRandomQuestion",
+    "RelativePath": "api/Quiz/random",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.QuizController",
+    "Method": "GetReverseQuiz",
+    "RelativePath": "api/Quiz/reverse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.QuizController",
+    "Method": "GetStats",
+    "RelativePath": "api/Quiz/stats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.QuizController",
+    "Method": "SubmitAnswer",
+    "RelativePath": "api/Quiz/submit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "GoogleTranslateHistoryAPI.Controllers.QuizAnswerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.TestController",
+    "Method": "Test",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.TranslateController",
+    "Method": "TranslateText",
+    "RelativePath": "api/Translate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "GoogleTranslateHistoryAPI.Controllers.TranslationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.TranslateController",
+    "Method": "DeleteEntry",
+    "RelativePath": "api/Translate/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoogleTranslateHistoryAPI.Controllers.TranslateController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Translate/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

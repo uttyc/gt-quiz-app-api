@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sM3fKVDf5JHFXG+lP9azdIzV4/aud89tlDktFuGQubc=",
+  "Source": "GoogleTranslateHistoryAPI",
+  "BasePath": "_content/GoogleTranslateHistoryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
